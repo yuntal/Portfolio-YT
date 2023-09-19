@@ -23,10 +23,8 @@ This is my official portfolio page. Here I will like to tell you a few words abo
 To install, type the following command: 
 
 ```bash
-npm install --force
+npm install 
 ```
-
-Currently facing some issues with the npm packaging. 
 
 <br> </br>
 
